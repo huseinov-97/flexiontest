@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    loadbalancer:
+      ribbon:
+        enable: false
+
+server:
+  port: 2020
+integration:
+  developer-id: Rahib
